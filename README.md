@@ -58,7 +58,6 @@ A modern Android news application built with Jetpack Compose that provides real-
 ## Libraries Used
 
 - **Jetpack Compose**: Modern UI toolkit
-- **Hilt**: Dependency injection
 - **Retrofit**: HTTP client for API calls
 - **Room**: Local database
 - **Coil**: Image loading
@@ -71,18 +70,6 @@ This app uses the [NewsAPI.org](https://newsapi.org/) service to fetch news arti
 - 1,000 requests per day
 - Basic news sources
 - Limited country support
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
 
