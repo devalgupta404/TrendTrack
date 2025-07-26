@@ -72,8 +72,9 @@ This app uses the [NewsAPI.org](https://newsapi.org/) service to fetch news arti
 - Limited country support
 
 ## Screenshots
-
-[Add screenshots here]
+![WhatsApp Image 2025-07-26 at 18 22 45_cc95022e](https://github.com/user-attachments/assets/05015cdc-682c-4005-8372-4288a1d437e2)
+![WhatsApp Image 2025-07-26 at 18 22 46_5022d170](https://github.com/user-attachments/assets/159ff3c3-4e91-487a-b62f-3ed8b524419c)
+![WhatsApp Image 2025-07-26 at 18 22 46_ea733829](https://github.com/user-attachments/assets/4bc9a02f-6050-4916-8a05-56e71cbc91dc)
 
 ## Note
 
